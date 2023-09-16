@@ -1,0 +1,1 @@
+java -cp C:\Users\ShareAssignment -Djava.security.policy=server-windows.policy ShareServerImpl
