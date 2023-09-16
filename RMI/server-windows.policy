@@ -1,0 +1,4 @@
+grant codeBase "file:/c:/Users/rmisample/" {
+    permission java.security.AllPermission;
+};
+
